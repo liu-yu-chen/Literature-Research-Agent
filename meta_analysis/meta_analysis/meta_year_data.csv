@@ -1,0 +1,511 @@
+﻿outcome,label,short,year,n,events,pct,logit,var_logit,se_logit,w_re
+covid,COVID-19 prevalence,COVID-19,1996,13,0,0.0,-3.21888,2.08,1.44222,0.3464
+covid,COVID-19 prevalence,COVID-19,1997,14,0,0.0,-3.29584,2.074074,1.44016,0.34711
+covid,COVID-19 prevalence,COVID-19,1998,15,0,0.0,-3.3673,2.068966,1.43839,0.34772
+covid,COVID-19 prevalence,COVID-19,1999,20,0,0.0,-3.66356,2.051282,1.43223,0.34988
+covid,COVID-19 prevalence,COVID-19,2000,30,0,0.0,-4.07754,2.033898,1.42615,0.35202
+covid,COVID-19 prevalence,COVID-19,2001,35,0,0.0,-4.23411,2.028986,1.42442,0.35263
+covid,COVID-19 prevalence,COVID-19,2002,112,0,0.0,-5.40717,2.008969,1.41738,0.35513
+covid,COVID-19 prevalence,COVID-19,2003,63,0,0.0,-4.82831,2.016,1.41986,0.35425
+covid,COVID-19 prevalence,COVID-19,2004,108,0,0.0,-5.37064,2.009302,1.4175,0.35509
+covid,COVID-19 prevalence,COVID-19,2005,109,0,0.0,-5.3799,2.009217,1.41747,0.3551
+covid,COVID-19 prevalence,COVID-19,2006,167,0,0.0,-5.80814,2.006006,1.41634,0.35551
+covid,COVID-19 prevalence,COVID-19,2007,174,0,0.0,-5.84932,2.005764,1.41625,0.35554
+covid,COVID-19 prevalence,COVID-19,2008,194,0,0.0,-5.95842,2.005168,1.41604,0.35561
+covid,COVID-19 prevalence,COVID-19,2009,277,0,0.0,-6.31536,2.003617,1.41549,0.35581
+covid,COVID-19 prevalence,COVID-19,2010,273,0,0.0,-6.30079,2.00367,1.41551,0.3558
+covid,COVID-19 prevalence,COVID-19,2011,286,0,0.0,-6.34739,2.003503,1.41545,0.35582
+covid,COVID-19 prevalence,COVID-19,2012,321,0,0.0,-6.46303,2.00312,1.41532,0.35587
+covid,COVID-19 prevalence,COVID-19,2013,418,0,0.0,-6.72743,2.002395,1.41506,0.35596
+covid,COVID-19 prevalence,COVID-19,2014,448,0,0.0,-6.79682,2.002235,1.415,0.35598
+covid,COVID-19 prevalence,COVID-19,2015,485,0,0.0,-6.87626,2.002064,1.41494,0.35601
+covid,COVID-19 prevalence,COVID-19,2016,450,0,0.0,-6.80128,2.002225,1.415,0.35599
+covid,COVID-19 prevalence,COVID-19,2017,493,0,0.0,-6.89264,2.00203,1.41493,0.35601
+covid,COVID-19 prevalence,COVID-19,2018,548,0,0.0,-6.99851,2.001826,1.41486,0.35604
+covid,COVID-19 prevalence,COVID-19,2019,544,0,0.0,-6.99118,2.00184,1.41486,0.35603
+covid,COVID-19 prevalence,COVID-19,2020,654,40,6.116,-2.73112,0.026629,0.16318,1.19976
+covid,COVID-19 prevalence,COVID-19,2021,714,147,20.588,-1.34993,0.008566,0.09255,1.22633
+covid,COVID-19 prevalence,COVID-19,2022,751,120,15.979,-1.65981,0.009918,0.09959,1.2243
+covid,COVID-19 prevalence,COVID-19,2023,675,75,11.111,-2.07944,0.015,0.12247,1.21673
+covid,COVID-19 prevalence,COVID-19,2024,791,63,7.965,-2.44717,0.017247,0.13133,1.21341
+covid,COVID-19 prevalence,COVID-19,2025,781,32,4.097,-3.153,0.032585,0.18051,1.19124
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,1996,13,0,0.0,-3.21888,2.08,1.44222,0.47384
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,1997,14,0,0.0,-3.29584,2.074074,1.44016,0.47518
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,1998,15,0,0.0,-3.3673,2.068966,1.43839,0.47633
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,1999,20,1,5.0,-2.94444,1.052632,1.02598,0.92333
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,2000,30,1,3.333,-3.3673,1.034483,1.0171,0.93907
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,2001,35,0,0.0,-4.23411,2.028986,1.42442,0.48558
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,2002,112,1,0.893,-4.70953,1.009009,1.00449,0.96208
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,2003,63,1,1.587,-4.12713,1.016129,1.00803,0.95554
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,2004,108,2,1.852,-3.97029,0.509434,0.71375,1.85241
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,2005,109,2,1.835,-3.97968,0.509346,0.71368,1.85271
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,2006,167,4,2.395,-3.70746,0.256135,0.5061,3.48993
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,2007,174,3,1.724,-4.04305,0.339181,0.58239,2.70574
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,2008,194,9,4.639,-3.02313,0.116517,0.34135,6.80642
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,2009,277,11,3.971,-3.1856,0.094668,0.30768,7.99539
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,2010,273,6,2.198,-3.79549,0.170412,0.41281,4.97969
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,2011,286,11,3.846,-3.21888,0.094545,0.30748,8.00326
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,2012,321,14,4.361,-3.08779,0.074686,0.27329,9.5157
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,2013,418,18,4.306,-3.10109,0.058056,0.24095,11.30465
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,2014,448,27,6.027,-2.7468,0.039412,0.19853,14.32337
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,2015,485,31,6.392,-2.68411,0.034461,0.18564,15.41679
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,2016,450,19,4.222,-3.12167,0.054952,0.23442,11.71572
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,2017,493,16,3.245,-3.39493,0.064596,0.25416,10.52631
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,2018,548,11,2.007,-3.8881,0.092771,0.30458,8.11854
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,2019,544,14,2.574,-3.63382,0.073315,0.27077,9.64143
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,2020,654,24,3.67,-3.26767,0.043254,0.20798,13.57633
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,2021,714,24,3.361,-3.35864,0.043116,0.20764,13.60182
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,2022,751,27,3.595,-3.28895,0.038418,0.19601,14.53026
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,2023,675,18,2.667,-3.59731,0.057078,0.23891,11.43102
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,2024,791,22,2.781,-3.55405,0.046755,0.21623,12.96032
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,2025,781,26,3.329,-3.36862,0.039786,0.19946,14.24711
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,1996,13,0,0.0,-3.21888,2.08,1.44222,0.48077
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,1997,14,0,0.0,-3.29584,2.074074,1.44016,0.48214
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,1998,15,0,0.0,-3.3673,2.068966,1.43839,0.48333
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,1999,20,1,5.0,-2.94444,1.052632,1.02598,0.95
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,2000,30,1,3.333,-3.3673,1.034483,1.0171,0.96667
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,2001,35,1,2.857,-3.52636,1.029412,1.0146,0.97143
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,2002,112,0,0.0,-5.40717,2.008969,1.41738,0.49777
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,2003,63,0,0.0,-4.82831,2.016,1.41986,0.49603
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,2004,108,1,0.926,-4.67283,1.009346,1.00466,0.99074
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,2005,109,2,1.835,-3.97968,0.509346,0.71368,1.9633
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,2006,167,2,1.198,-4.4128,0.506061,0.71138,1.97605
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,2007,174,2,1.149,-4.45435,0.505814,0.71121,1.97701
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,2008,194,4,2.062,-3.86073,0.255263,0.50524,3.91753
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,2009,277,5,1.805,-3.99636,0.203676,0.45131,4.90975
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,2010,273,2,0.733,-4.90897,0.50369,0.70971,1.98535
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,2011,286,6,2.098,-3.84303,0.170238,0.4126,5.87413
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,2012,321,9,2.804,-3.54578,0.114316,0.33811,8.74766
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,2013,418,12,2.871,-3.52145,0.085796,0.29291,11.6555
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,2014,448,5,1.116,-4.48413,0.202257,0.44973,4.9442
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,2015,485,11,2.268,-3.76331,0.093019,0.30499,10.75052
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,2016,450,8,1.778,-4.01187,0.127262,0.35674,7.85778
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,2017,493,11,2.231,-3.78005,0.092984,0.30493,10.75456
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,2018,548,13,2.372,-3.71732,0.078792,0.2807,12.69161
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,2019,544,7,1.287,-4.34009,0.144719,0.38042,6.90993
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,2020,654,13,1.988,-3.89808,0.078483,0.28015,12.74159
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,2021,714,15,2.101,-3.8416,0.068097,0.26095,14.68487
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,2022,751,11,1.465,-4.20875,0.09226,0.30374,10.83888
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,2023,675,15,2.222,-3.78419,0.068182,0.26112,14.66667
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,2024,791,26,3.287,-3.38178,0.039769,0.19942,25.14539
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,2025,781,20,2.561,-3.6389,0.051314,0.22653,19.48784
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,1996,13,0,0.0,-3.21888,2.08,1.44222,0.45639
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,1997,14,0,0.0,-3.29584,2.074074,1.44016,0.45763
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,1998,15,0,0.0,-3.3673,2.068966,1.43839,0.4587
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,1999,20,0,0.0,-3.66356,2.051282,1.43223,0.46245
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,2000,30,0,0.0,-4.07754,2.033898,1.42615,0.4662
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,2001,35,0,0.0,-4.23411,2.028986,1.42442,0.46727
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,2002,112,1,0.893,-4.70953,1.009009,1.00449,0.89276
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,2003,63,0,0.0,-4.82831,2.016,1.41986,0.47012
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,2004,108,1,0.926,-4.67283,1.009346,1.00466,0.89249
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,2005,109,1,0.917,-4.68213,1.009259,1.00462,0.89256
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,2006,167,0,0.0,-5.80814,2.006006,1.41634,0.47234
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,2007,174,0,0.0,-5.84932,2.005764,1.41625,0.47239
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,2008,194,0,0.0,-5.95842,2.005168,1.41604,0.47253
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,2009,277,4,1.444,-4.22318,0.253663,0.50365,2.74141
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,2010,273,6,2.198,-3.79549,0.170412,0.41281,3.55209
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,2011,286,2,0.699,-4.95583,0.503521,0.70959,1.62699
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,2012,321,2,0.623,-5.07204,0.503135,0.70932,1.62801
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,2013,418,7,1.675,-4.07268,0.14529,0.38117,3.90012
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,2014,448,9,2.009,-3.88727,0.113389,0.33673,4.45431
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,2015,485,9,1.856,-3.96819,0.113212,0.33647,4.45783
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,2016,450,13,2.889,-3.51498,0.079211,0.28145,5.2542
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,2017,493,21,4.26,-3.11246,0.049738,0.22302,6.21697
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,2018,548,16,2.92,-3.50405,0.06438,0.25373,5.69826
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,2019,544,16,2.941,-3.49651,0.064394,0.25376,5.6978
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,2020,654,23,3.517,-3.31181,0.045063,0.21228,6.40305
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,2021,714,16,2.241,-3.77563,0.063933,0.25285,5.71281
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,2022,751,26,3.462,-3.32808,0.039841,0.1996,6.62456
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,2023,675,11,1.63,-4.10039,0.092415,0.304,4.91334
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,2024,791,11,1.391,-4.2614,0.092191,0.30363,4.91875
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,2025,781,6,0.768,-4.8611,0.167957,0.40983,3.58334
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,1996,13,2,15.385,-1.70475,0.590909,0.76871,0.85307
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,1997,14,1,7.143,-2.56495,1.076923,1.03775,0.60305
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,1998,15,4,26.667,-1.0116,0.340909,0.58387,1.08432
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,1999,20,4,20.0,-1.38629,0.3125,0.55902,1.11878
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,2000,30,1,3.333,-3.3673,1.034483,1.0171,0.61888
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,2001,35,4,11.429,-2.04769,0.282258,0.53128,1.15796
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,2002,112,8,7.143,-2.56495,0.134615,0.3669,1.39676
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,2003,63,2,3.175,-3.41773,0.516393,0.71861,0.91098
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,2004,108,8,7.407,-2.52573,0.135,0.36742,1.39601
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,2005,109,3,2.752,-3.56483,0.342767,0.58546,1.08214
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,2006,167,7,4.192,-3.12926,0.149107,0.38614,1.36905
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,2007,174,2,1.149,-4.45435,0.505814,0.71121,0.91984
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,2008,194,2,1.031,-4.56435,0.505208,0.71078,0.92036
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,2009,277,3,1.083,-4.51452,0.336983,0.5805,1.08896
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,2010,273,8,2.93,-3.50029,0.128774,0.35885,1.40825
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,2011,286,5,1.748,-4.02892,0.203559,0.45117,1.27407
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,2012,321,6,1.869,-3.96081,0.169841,0.41212,1.33126
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,2013,418,9,2.153,-3.81649,0.113556,0.33698,1.43909
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,2014,448,9,2.009,-3.88727,0.113389,0.33673,1.43944
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,2015,485,4,0.825,-4.78957,0.252079,0.50207,1.1999
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,2016,450,6,1.333,-4.30407,0.168919,0.411,1.3329
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,2017,493,6,1.217,-4.3965,0.16872,0.41076,1.33325
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,2018,548,9,1.642,-4.09249,0.112966,0.3361,1.44031
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,2019,544,9,1.654,-4.08504,0.11298,0.33613,1.44028
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,2020,654,9,1.376,-4.27203,0.112661,0.33565,1.44095
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,2021,714,6,0.84,-4.77068,0.168079,0.40997,1.33439
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,2022,751,11,1.465,-4.20875,0.09226,0.30374,1.48459
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,2023,675,8,1.185,-4.42335,0.126499,0.35567,1.41278
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,2024,791,5,0.632,-5.05752,0.201272,0.44863,1.27779
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,2025,781,14,1.793,-4.00343,0.072732,0.26969,1.52891
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,1996,13,0,0.0,-3.21888,2.08,1.44222,0.45335
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,1997,14,0,0.0,-3.29584,2.074074,1.44016,0.45457
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,1998,15,0,0.0,-3.3673,2.068966,1.43839,0.45562
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,1999,20,0,0.0,-3.66356,2.051282,1.43223,0.45933
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,2000,30,0,0.0,-4.07754,2.033898,1.42615,0.46302
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,2001,35,0,0.0,-4.23411,2.028986,1.42442,0.46408
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,2002,112,1,0.893,-4.70953,1.009009,1.00449,0.88119
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,2003,63,0,0.0,-4.82831,2.016,1.41986,0.46689
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,2004,108,2,1.852,-3.97029,0.509434,0.71375,1.57416
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,2005,109,2,1.835,-3.97968,0.509346,0.71368,1.57438
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,2006,167,0,0.0,-5.80814,2.006006,1.41634,0.46908
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,2007,174,3,1.724,-4.04305,0.339181,0.58239,2.15051
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,2008,194,5,2.577,-3.63231,0.205291,0.45309,3.02009
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,2009,277,7,2.527,-3.65251,0.146561,0.38283,3.67127
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,2010,273,13,4.762,-2.99573,0.080769,0.2842,4.84042
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,2011,286,7,2.448,-3.6853,0.146441,0.38268,3.67288
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,2012,321,2,0.623,-5.07204,0.503135,0.70932,1.58993
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,2013,418,3,0.718,-4.92967,0.335743,0.57943,2.16653
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,2014,448,5,1.116,-4.48413,0.202257,0.44973,3.04802
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,2015,485,8,1.649,-4.08807,0.127096,0.35651,3.9538
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,2016,450,6,1.333,-4.30407,0.168919,0.411,3.39278
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,2017,493,10,2.028,-3.87743,0.10207,0.31948,4.38799
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,2018,548,6,1.095,-4.50351,0.168512,0.4105,3.39748
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,2019,544,6,1.103,-4.4961,0.168525,0.41052,3.39732
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,2020,654,7,1.07,-4.52644,0.144403,0.38,3.70059
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,2021,714,14,1.961,-3.91202,0.072857,0.26992,5.03318
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,2022,751,9,1.198,-4.41212,0.112459,0.33535,4.19668
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,2023,675,2,0.296,-5.8186,0.501486,0.70816,1.59411
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,2024,791,6,0.759,-4.87392,0.167941,0.40981,3.40408
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,2025,781,6,0.768,-4.8611,0.167957,0.40983,3.40389
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,1996,13,4,30.769,-0.81093,0.361111,0.60093,2.33997
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,1997,14,2,14.286,-1.79176,0.583333,0.76376,1.53946
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,1998,15,2,13.333,-1.8718,0.576923,0.75955,1.5548
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,1999,20,10,50.0,0.0,0.2,0.44721,3.75593
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,2000,30,9,30.0,-0.8473,0.15873,0.39841,4.44493
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,2001,35,18,51.429,0.05716,0.114379,0.3382,5.53635
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,2002,112,80,71.429,0.91629,0.04375,0.20917,9.09129
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,2003,63,36,57.143,0.28768,0.064815,0.25459,7.63008
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,2004,108,71,65.741,0.65176,0.041112,0.20276,9.31472
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,2005,109,72,66.055,0.66575,0.040916,0.20228,9.33172
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,2006,167,123,73.653,1.02799,0.030857,0.17566,10.29837
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,2007,174,117,67.241,0.71912,0.026091,0.16153,10.82998
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,2008,194,123,63.402,0.5495,0.022215,0.14905,11.30454
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,2009,277,185,66.787,0.69857,0.016275,0.12757,12.11822
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,2010,273,191,69.963,0.84555,0.017431,0.13203,11.95084
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,2011,286,196,68.531,0.7783,0.016213,0.12733,12.1273
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,2012,321,235,73.209,1.00524,0.015883,0.12603,12.17602
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,2013,418,317,75.837,1.14378,0.013056,0.11426,12.61018
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,2014,448,327,72.991,0.99417,0.011323,0.10641,12.89192
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,2015,485,356,73.402,1.01512,0.010561,0.10277,13.01976
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,2016,450,340,75.556,1.12847,0.012032,0.10969,12.77506
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,2017,493,355,72.008,0.94486,0.010063,0.10032,13.10467
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,2018,548,399,72.81,0.98502,0.009218,0.09601,13.25151
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,2019,544,407,74.816,1.08883,0.009756,0.09877,13.1576
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,2020,654,480,73.394,1.01473,0.00783,0.08849,13.49967
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,2021,714,540,75.63,1.13251,0.007599,0.08717,13.54199
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,2022,751,591,78.695,1.30664,0.007942,0.08912,13.47937
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,2023,675,503,74.519,1.0731,0.007802,0.08833,13.50485
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,2024,791,605,76.485,1.17948,0.007029,0.08384,13.64728
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,2025,781,625,80.026,1.3879,0.00801,0.0895,13.46698
+method:Simulation,Methodology: Simulation,Simulation,1996,13,2,15.385,-1.70475,0.590909,0.76871,1.69231
+method:Simulation,Methodology: Simulation,Simulation,1997,14,3,21.429,-1.29928,0.424242,0.65134,2.35714
+method:Simulation,Methodology: Simulation,Simulation,1998,15,3,20.0,-1.38629,0.416667,0.6455,2.4
+method:Simulation,Methodology: Simulation,Simulation,1999,20,5,25.0,-1.09861,0.266667,0.5164,3.75
+method:Simulation,Methodology: Simulation,Simulation,2000,30,5,16.667,-1.60944,0.24,0.4899,4.16667
+method:Simulation,Methodology: Simulation,Simulation,2001,35,9,25.714,-1.06087,0.149573,0.38675,6.68571
+method:Simulation,Methodology: Simulation,Simulation,2002,112,15,13.393,-1.86666,0.076976,0.27745,12.99107
+method:Simulation,Methodology: Simulation,Simulation,2003,63,8,12.698,-1.92789,0.143182,0.37839,6.98413
+method:Simulation,Methodology: Simulation,Simulation,2004,108,18,16.667,-1.60944,0.066667,0.2582,15.0
+method:Simulation,Methodology: Simulation,Simulation,2005,109,23,21.101,-1.31885,0.055106,0.23475,18.14679
+method:Simulation,Methodology: Simulation,Simulation,2006,167,29,17.365,-1.55996,0.041729,0.20428,23.96407
+method:Simulation,Methodology: Simulation,Simulation,2007,174,31,17.816,-1.52886,0.039251,0.19812,25.47701
+method:Simulation,Methodology: Simulation,Simulation,2008,194,32,16.495,-1.62186,0.037423,0.19345,26.72165
+method:Simulation,Methodology: Simulation,Simulation,2009,277,46,16.606,-1.61378,0.026068,0.16146,38.36101
+method:Simulation,Methodology: Simulation,Simulation,2010,273,57,20.879,-1.33223,0.022173,0.14891,45.0989
+method:Simulation,Methodology: Simulation,Simulation,2011,286,62,21.678,-1.28451,0.020593,0.1435,48.55944
+method:Simulation,Methodology: Simulation,Simulation,2012,321,59,18.38,-1.49081,0.020766,0.1441,48.15576
+method:Simulation,Methodology: Simulation,Simulation,2013,418,73,17.464,-1.55308,0.016597,0.12883,60.2512
+method:Simulation,Methodology: Simulation,Simulation,2014,448,80,17.857,-1.52606,0.015217,0.12336,65.71429
+method:Simulation,Methodology: Simulation,Simulation,2015,485,85,17.526,-1.54881,0.014265,0.11943,70.10309
+method:Simulation,Methodology: Simulation,Simulation,2016,450,69,15.333,-1.70869,0.017117,0.13083,58.42
+method:Simulation,Methodology: Simulation,Simulation,2017,493,83,16.836,-1.59732,0.014487,0.12036,69.02637
+method:Simulation,Methodology: Simulation,Simulation,2018,548,95,17.336,-1.56202,0.012734,0.11284,78.53102
+method:Simulation,Methodology: Simulation,Simulation,2019,544,96,17.647,-1.54045,0.012649,0.11247,79.05882
+method:Simulation,Methodology: Simulation,Simulation,2020,654,125,19.113,-1.44267,0.00989,0.09945,101.10856
+method:Simulation,Methodology: Simulation,Simulation,2021,714,112,15.686,-1.68176,0.01059,0.10291,94.43137
+method:Simulation,Methodology: Simulation,Simulation,2022,751,126,16.778,-1.60147,0.009537,0.09766,104.86019
+method:Simulation,Methodology: Simulation,Simulation,2023,675,116,17.185,-1.57256,0.01041,0.10203,96.06519
+method:Simulation,Methodology: Simulation,Simulation,2024,791,122,15.424,-1.70176,0.009691,0.09845,103.18331
+method:Simulation,Methodology: Simulation,Simulation,2025,781,124,15.877,-1.6674,0.009587,0.09791,104.31242
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,1996,13,3,23.077,-1.20397,0.433333,0.65828,2.26641
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,1997,14,4,28.571,-0.91629,0.35,0.59161,2.79413
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,1998,15,0,0.0,-3.3673,2.068966,1.43839,0.4815
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,1999,20,3,15.0,-1.7346,0.392157,0.62622,2.49969
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,2000,30,8,26.667,-1.0116,0.170455,0.41286,5.60703
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,2001,35,1,2.857,-3.52636,1.029412,1.0146,0.96404
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,2002,112,14,12.5,-1.94591,0.081633,0.28571,11.16999
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,2003,63,9,14.286,-1.79176,0.12963,0.36004,7.27154
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,2004,108,7,6.481,-2.66921,0.152758,0.39084,6.22467
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,2005,109,14,12.844,-1.91482,0.081955,0.28628,11.12993
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,2006,167,23,13.772,-1.83432,0.050423,0.22455,17.14807
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,2007,174,23,13.218,-1.88179,0.050101,0.22383,17.24326
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,2008,194,18,9.278,-2.28011,0.061237,0.24746,14.46544
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,2009,277,32,11.552,-2.03552,0.035332,0.18797,23.13501
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,2010,273,35,12.821,-1.91692,0.032773,0.18103,24.59056
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,2011,286,46,16.084,-1.652,0.025906,0.16095,29.58694
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,2012,321,36,11.215,-2.06897,0.031287,0.17688,25.52358
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,2013,418,55,13.158,-1.88707,0.020937,0.14469,34.68664
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,2014,448,65,14.509,-1.77365,0.017996,0.13415,38.62721
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,2015,485,70,14.433,-1.77978,0.016695,0.12921,40.66982
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,2016,450,62,13.778,-1.83387,0.018706,0.13677,37.59504
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,2017,493,75,15.213,-1.71799,0.015726,0.1254,42.33955
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,2018,548,70,12.774,-1.92112,0.016378,0.12798,41.202
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,2019,544,76,13.971,-1.81773,0.015295,0.12367,43.12659
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,2020,654,83,12.691,-1.92855,0.0138,0.11747,46.09907
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,2021,714,112,15.686,-1.68176,0.01059,0.10291,54.10493
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,2022,751,112,14.913,-1.74141,0.010494,0.10244,54.38797
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,2023,675,100,14.815,-1.7492,0.011739,0.10835,50.93716
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,2024,791,99,12.516,-1.94447,0.011546,0.10745,51.44298
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,2025,781,82,10.499,-2.14293,0.013626,0.11673,46.47134
+method:Network analysis,Methodology: Network analysis,Network analysis,1996,13,2,15.385,-1.70475,0.590909,0.76871,1.61994
+method:Network analysis,Methodology: Network analysis,Network analysis,1997,14,0,0.0,-3.29584,2.074074,1.44016,0.47608
+method:Network analysis,Methodology: Network analysis,Network analysis,1998,15,0,0.0,-3.3673,2.068966,1.43839,0.47724
+method:Network analysis,Methodology: Network analysis,Network analysis,1999,20,1,5.0,-2.94444,1.052632,1.02598,0.92676
+method:Network analysis,Methodology: Network analysis,Network analysis,2000,30,0,0.0,-4.07754,2.033898,1.42615,0.48537
+method:Network analysis,Methodology: Network analysis,Network analysis,2001,35,2,5.714,-2.80336,0.530303,0.72822,1.7963
+method:Network analysis,Methodology: Network analysis,Network analysis,2002,112,13,11.607,-2.03017,0.087024,0.295,8.81672
+method:Network analysis,Methodology: Network analysis,Network analysis,2003,63,11,17.46,-1.55335,0.11014,0.33187,7.32404
+method:Network analysis,Methodology: Network analysis,Network analysis,2004,108,17,15.741,-1.67765,0.069813,0.26422,10.39401
+method:Network analysis,Methodology: Network analysis,Network analysis,2005,109,11,10.092,-2.18707,0.101113,0.31798,7.84253
+method:Network analysis,Methodology: Network analysis,Network analysis,2006,167,20,11.976,-1.9947,0.056803,0.23833,12.01931
+method:Network analysis,Methodology: Network analysis,Network analysis,2007,174,19,10.92,-2.09899,0.059083,0.24307,11.69866
+method:Network analysis,Methodology: Network analysis,Network analysis,2008,194,26,13.402,-1.86587,0.044414,0.21075,14.12217
+method:Network analysis,Methodology: Network analysis,Network analysis,2009,277,30,10.83,-2.10819,0.037382,0.19334,15.67923
+method:Network analysis,Methodology: Network analysis,Network analysis,2010,273,25,9.158,-2.29455,0.044032,0.20984,14.1987
+method:Network analysis,Methodology: Network analysis,Network analysis,2011,286,30,10.49,-2.14398,0.03724,0.19298,15.7143
+method:Network analysis,Methodology: Network analysis,Network analysis,2012,321,40,12.461,-1.94948,0.028559,0.16899,18.19656
+method:Network analysis,Methodology: Network analysis,Network analysis,2013,418,38,9.091,-2.30259,0.028947,0.17014,18.06878
+method:Network analysis,Methodology: Network analysis,Network analysis,2014,448,43,9.598,-2.24269,0.025725,0.16039,19.18588
+method:Network analysis,Methodology: Network analysis,Network analysis,2015,485,43,8.866,-2.33011,0.025518,0.15974,19.26227
+method:Network analysis,Methodology: Network analysis,Network analysis,2016,450,41,9.111,-2.30014,0.026835,0.16381,18.78571
+method:Network analysis,Methodology: Network analysis,Network analysis,2017,493,32,6.491,-2.66766,0.033419,0.18281,16.71796
+method:Network analysis,Methodology: Network analysis,Network analysis,2018,548,38,6.934,-2.59682,0.028277,0.16816,18.29047
+method:Network analysis,Methodology: Network analysis,Network analysis,2019,544,46,8.456,-2.38196,0.023747,0.1541,19.94261
+method:Network analysis,Methodology: Network analysis,Network analysis,2020,654,57,8.716,-2.34887,0.019219,0.13863,21.92232
+method:Network analysis,Methodology: Network analysis,Network analysis,2021,714,83,11.625,-2.02847,0.013633,0.11676,24.98146
+method:Network analysis,Methodology: Network analysis,Network analysis,2022,751,76,10.12,-2.18398,0.014639,0.12099,24.36879
+method:Network analysis,Methodology: Network analysis,Network analysis,2023,675,40,5.926,-2.76475,0.026575,0.16302,18.87807
+method:Network analysis,Methodology: Network analysis,Network analysis,2024,791,69,8.723,-2.34792,0.015878,0.12601,23.65492
+method:Network analysis,Methodology: Network analysis,Network analysis,2025,781,65,8.323,-2.39929,0.016781,0.12954,23.15995
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,1996,13,5,38.462,-0.47,0.325,0.57009,2.17445
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,1997,14,7,50.0,0.0,0.285714,0.53452,2.37755
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,1998,15,8,53.333,0.13353,0.267857,0.51755,2.48297
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,1999,20,4,20.0,-1.38629,0.3125,0.55902,2.2352
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,2000,30,8,26.667,-1.0116,0.170455,0.41286,3.27502
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,2001,35,8,22.857,-1.2164,0.162037,0.40254,3.36786
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,2002,112,8,7.143,-2.56495,0.134615,0.3669,3.71054
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,2003,63,9,14.286,-1.79176,0.12963,0.36004,3.78048
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,2004,108,12,11.111,-2.07944,0.09375,0.30619,4.37374
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,2005,109,14,12.844,-1.91482,0.081955,0.28628,4.61165
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,2006,167,13,7.784,-2.472,0.083417,0.28882,4.58077
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,2007,174,18,10.345,-2.15948,0.061966,0.24893,5.07993
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,2008,194,18,9.278,-2.28011,0.061237,0.24746,5.0988
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,2009,277,29,10.469,-2.14613,0.038515,0.19625,5.76694
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,2010,273,26,9.524,-2.25129,0.04251,0.20618,5.63707
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,2011,286,27,9.441,-2.26099,0.040898,0.20223,5.68876
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,2012,321,37,11.526,-2.03806,0.030548,0.17478,6.04466
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,2013,418,34,8.134,-2.42428,0.032016,0.17893,5.9915
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,2014,448,36,8.036,-2.4375,0.030205,0.1738,6.05723
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,2015,485,39,8.041,-2.43676,0.027883,0.16698,6.14363
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,2016,450,42,9.333,-2.2736,0.026261,0.16205,6.20549
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,2017,493,47,9.533,-2.25017,0.023519,0.15336,6.3129
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,2018,548,54,9.854,-2.21355,0.020543,0.14333,6.43377
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,2019,544,33,6.066,-2.73986,0.03226,0.17961,5.98275
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,2020,654,51,7.798,-2.47009,0.021266,0.14583,6.40396
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,2021,714,46,6.443,-2.67565,0.023236,0.15243,6.32418
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,2022,751,53,7.057,-2.57793,0.020301,0.14248,6.44381
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,2023,675,54,8.0,-2.44235,0.020129,0.14188,6.45095
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,2024,791,58,7.332,-2.5367,0.018606,0.1364,6.51497
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,2025,781,30,3.841,-3.22021,0.034665,0.18619,5.89789
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,1996,13,2,15.385,-1.70475,0.590909,0.76871,1.63435
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,1997,14,1,7.143,-2.56495,1.076923,1.03775,0.91085
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,1998,15,0,0.0,-3.3673,2.068966,1.43839,0.47849
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,1999,20,0,0.0,-3.66356,2.051282,1.43223,0.48257
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,2000,30,0,0.0,-4.07754,2.033898,1.42615,0.48665
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,2001,35,2,5.714,-2.80336,0.530303,0.72822,1.81404
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,2002,112,5,4.464,-3.06339,0.209346,0.45754,4.34218
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,2003,63,2,3.175,-3.41773,0.516393,0.71861,1.861
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,2004,108,8,7.407,-2.52573,0.135,0.36742,6.41217
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,2005,109,7,6.422,-2.67906,0.152661,0.39072,5.75989
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,2006,167,8,4.79,-2.98946,0.131289,0.36234,6.56846
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,2007,174,11,6.322,-2.69585,0.097044,0.31152,8.47476
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,2008,194,10,5.155,-2.91235,0.105435,0.32471,7.91214
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,2009,277,17,6.137,-2.72747,0.06267,0.25034,11.95843
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,2010,273,26,9.524,-2.25129,0.04251,0.20618,15.7571
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,2011,286,17,5.944,-2.7615,0.062541,0.25008,11.97686
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,2012,321,20,6.231,-2.71138,0.053322,0.23092,13.46337
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,2013,418,35,8.373,-2.39269,0.031182,0.17659,19.1807
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,2014,448,23,5.134,-2.91659,0.045831,0.21408,14.97352
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,2015,485,28,5.773,-2.79248,0.037902,0.19469,16.99068
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,2016,450,36,8.0,-2.44235,0.030193,0.17376,19.55165
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,2017,493,30,6.085,-2.73653,0.035493,0.1884,17.71589
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,2018,548,34,6.204,-2.71586,0.031357,0.17708,19.11657
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,2019,544,44,8.088,-2.43042,0.024727,0.15725,21.89112
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,2020,654,61,9.327,-2.27432,0.01808,0.13446,25.61927
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,2021,714,77,10.784,-2.11296,0.014557,0.12065,28.16091
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,2022,751,72,9.587,-2.24396,0.015362,0.12394,27.53684
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,2023,675,59,8.741,-2.34571,0.018573,0.13628,25.29989
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,2024,791,64,8.091,-2.43004,0.017001,0.13039,26.34778
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,2025,781,61,7.81,-2.46838,0.017782,0.13335,25.816
+field:Computer Science,Research field: Computer Science,Computer Science,1996,13,2,15.385,-1.70475,0.590909,0.76871,1.28783
+field:Computer Science,Research field: Computer Science,Computer Science,1997,14,2,14.286,-1.79176,0.583333,0.76376,1.30052
+field:Computer Science,Research field: Computer Science,Computer Science,1998,15,2,13.333,-1.8718,0.576923,0.75955,1.31145
+field:Computer Science,Research field: Computer Science,Computer Science,1999,20,9,45.0,-0.20067,0.20202,0.44947,2.57989
+field:Computer Science,Research field: Computer Science,Computer Science,2000,30,9,30.0,-0.8473,0.15873,0.39841,2.90425
+field:Computer Science,Research field: Computer Science,Computer Science,2001,35,9,25.714,-1.06087,0.149573,0.38675,2.9836
+field:Computer Science,Research field: Computer Science,Computer Science,2002,112,68,60.714,0.43532,0.037433,0.19348,4.48379
+field:Computer Science,Research field: Computer Science,Computer Science,2003,63,34,53.968,0.15906,0.063895,0.25277,4.00822
+field:Computer Science,Research field: Computer Science,Computer Science,2004,108,51,47.222,-0.11123,0.037152,0.19275,4.48945
+field:Computer Science,Research field: Computer Science,Computer Science,2005,109,49,44.954,-0.20252,0.037075,0.19255,4.491
+field:Computer Science,Research field: Computer Science,Computer Science,2006,167,82,49.102,-0.03593,0.02396,0.15479,4.77208
+field:Computer Science,Research field: Computer Science,Computer Science,2007,174,71,40.805,-0.37205,0.023793,0.15425,4.77587
+field:Computer Science,Research field: Computer Science,Computer Science,2008,194,79,40.722,-0.37548,0.021354,0.14613,4.83217
+field:Computer Science,Research field: Computer Science,Computer Science,2009,277,126,45.487,-0.181,0.014559,0.12066,4.99621
+field:Computer Science,Research field: Computer Science,Computer Science,2010,273,98,35.897,-0.57982,0.015918,0.12617,4.96251
+field:Computer Science,Research field: Computer Science,Computer Science,2011,286,91,31.818,-0.76214,0.016117,0.12695,4.95762
+field:Computer Science,Research field: Computer Science,Computer Science,2012,321,121,37.695,-0.50253,0.013264,0.11517,5.02874
+field:Computer Science,Research field: Computer Science,Computer Science,2013,418,142,33.971,-0.66457,0.010665,0.10327,5.09533
+field:Computer Science,Research field: Computer Science,Computer Science,2014,448,163,36.384,-0.55874,0.009644,0.0982,5.122
+field:Computer Science,Research field: Computer Science,Computer Science,2015,485,149,30.722,-0.81316,0.009688,0.09843,5.12085
+field:Computer Science,Research field: Computer Science,Computer Science,2016,450,130,28.889,-0.90079,0.010817,0.10401,5.09139
+field:Computer Science,Research field: Computer Science,Computer Science,2017,493,127,25.761,-1.05845,0.010606,0.10299,5.09687
+field:Computer Science,Research field: Computer Science,Computer Science,2018,548,130,23.723,-1.16795,0.010085,0.10042,5.11046
+field:Computer Science,Research field: Computer Science,Computer Science,2019,544,130,23.897,-1.15833,0.010108,0.10054,5.10985
+field:Computer Science,Research field: Computer Science,Computer Science,2020,654,150,22.936,-1.21194,0.008651,0.09301,5.14818
+field:Computer Science,Research field: Computer Science,Computer Science,2021,714,140,19.608,-1.41099,0.008885,0.09426,5.14198
+field:Computer Science,Research field: Computer Science,Computer Science,2022,751,157,20.905,-1.33063,0.008053,0.08974,5.16408
+field:Computer Science,Research field: Computer Science,Computer Science,2023,675,151,22.37,-1.24421,0.008531,0.09236,5.15136
+field:Computer Science,Research field: Computer Science,Computer Science,2024,791,169,21.365,-1.30304,0.007525,0.08675,5.1782
+field:Computer Science,Research field: Computer Science,Computer Science,2025,781,162,20.743,-1.34051,0.007788,0.08825,5.17114
+field:Ecology,Research field: Ecology,Ecology,1996,13,7,53.846,0.15415,0.309524,0.55635,2.39341
+field:Ecology,Research field: Ecology,Ecology,1997,14,6,42.857,-0.28768,0.291667,0.54006,2.50027
+field:Ecology,Research field: Ecology,Ecology,1998,15,4,26.667,-1.0116,0.340909,0.58387,2.22618
+field:Ecology,Research field: Ecology,Ecology,1999,20,5,25.0,-1.09861,0.266667,0.5164,2.66697
+field:Ecology,Research field: Ecology,Ecology,2000,30,10,33.333,-0.69315,0.15,0.3873,3.87161
+field:Ecology,Research field: Ecology,Ecology,2001,35,14,40.0,-0.40547,0.119048,0.34503,4.39873
+field:Ecology,Research field: Ecology,Ecology,2002,112,19,16.964,-1.58816,0.063384,0.25176,5.82496
+field:Ecology,Research field: Ecology,Ecology,2003,63,8,12.698,-1.92789,0.143182,0.37839,3.97658
+field:Ecology,Research field: Ecology,Ecology,2004,108,22,20.37,-1.3633,0.057082,0.23892,6.04693
+field:Ecology,Research field: Ecology,Ecology,2005,109,14,12.844,-1.91482,0.081955,0.28628,5.25636
+field:Ecology,Research field: Ecology,Ecology,2006,167,23,13.772,-1.83432,0.050423,0.22455,6.30066
+field:Ecology,Research field: Ecology,Ecology,2007,174,22,12.644,-1.93284,0.052033,0.22811,6.23736
+field:Ecology,Research field: Ecology,Ecology,2008,194,17,8.763,-2.34294,0.064473,0.25392,5.78824
+field:Ecology,Research field: Ecology,Ecology,2009,277,33,11.913,-2.00066,0.034401,0.18548,7.00809
+field:Ecology,Research field: Ecology,Ecology,2010,273,38,13.919,-1.822,0.030571,0.17485,7.2014
+field:Ecology,Research field: Ecology,Ecology,2011,286,41,14.336,-1.78769,0.028472,0.16874,7.31194
+field:Ecology,Research field: Ecology,Ecology,2012,321,36,11.215,-2.06897,0.031287,0.17688,7.16449
+field:Ecology,Research field: Ecology,Ecology,2013,418,44,10.526,-2.14007,0.025401,0.15938,7.47989
+field:Ecology,Research field: Ecology,Ecology,2014,448,49,10.938,-2.09714,0.022914,0.15138,7.62165
+field:Ecology,Research field: Ecology,Ecology,2015,485,54,11.134,-2.07712,0.020839,0.14436,7.74417
+field:Ecology,Research field: Ecology,Ecology,2016,450,48,10.667,-2.12525,0.023321,0.15271,7.59811
+field:Ecology,Research field: Ecology,Ecology,2017,493,49,9.939,-2.204,0.02266,0.15053,7.63643
+field:Ecology,Research field: Ecology,Ecology,2018,548,60,10.949,-2.09597,0.018716,0.13681,7.87361
+field:Ecology,Research field: Ecology,Ecology,2019,544,46,8.456,-2.38196,0.023747,0.1541,7.57358
+field:Ecology,Research field: Ecology,Ecology,2020,654,76,11.621,-2.02884,0.014888,0.12202,8.11828
+field:Ecology,Research field: Ecology,Ecology,2021,714,66,9.244,-2.28424,0.016695,0.12921,8.00093
+field:Ecology,Research field: Ecology,Ecology,2022,751,60,7.989,-2.4438,0.018114,0.13459,7.91111
+field:Ecology,Research field: Ecology,Ecology,2023,675,57,8.444,-2.38344,0.019162,0.13843,7.84605
+field:Ecology,Research field: Ecology,Ecology,2024,791,78,9.861,-2.21277,0.014223,0.11926,8.16235
+field:Ecology,Research field: Ecology,Ecology,2025,781,55,7.042,-2.58022,0.019559,0.13985,7.82167
+field:Epidemiology,Research field: Epidemiology,Epidemiology,1996,13,0,0.0,-3.21888,2.08,1.44222,0.45246
+field:Epidemiology,Research field: Epidemiology,Epidemiology,1997,14,0,0.0,-3.29584,2.074074,1.44016,0.45368
+field:Epidemiology,Research field: Epidemiology,Epidemiology,1998,15,0,0.0,-3.3673,2.068966,1.43839,0.45473
+field:Epidemiology,Research field: Epidemiology,Epidemiology,1999,20,0,0.0,-3.66356,2.051282,1.43223,0.45842
+field:Epidemiology,Research field: Epidemiology,Epidemiology,2000,30,0,0.0,-4.07754,2.033898,1.42615,0.4621
+field:Epidemiology,Research field: Epidemiology,Epidemiology,2001,35,0,0.0,-4.23411,2.028986,1.42442,0.46315
+field:Epidemiology,Research field: Epidemiology,Epidemiology,2002,112,0,0.0,-5.40717,2.008969,1.41738,0.46748
+field:Epidemiology,Research field: Epidemiology,Epidemiology,2003,63,1,1.587,-4.12713,1.016129,1.00803,0.87239
+field:Epidemiology,Research field: Epidemiology,Epidemiology,2004,108,1,0.926,-4.67283,1.009346,1.00466,0.87758
+field:Epidemiology,Research field: Epidemiology,Epidemiology,2005,109,2,1.835,-3.97968,0.509346,0.71368,1.56374
+field:Epidemiology,Research field: Epidemiology,Epidemiology,2006,167,6,3.593,-3.28964,0.172878,0.41579,3.30008
+field:Epidemiology,Research field: Epidemiology,Epidemiology,2007,174,6,3.448,-3.3322,0.172619,0.41547,3.3029
+field:Epidemiology,Research field: Epidemiology,Epidemiology,2008,194,16,8.247,-2.40919,0.068118,0.26099,5.0438
+field:Epidemiology,Research field: Epidemiology,Epidemiology,2009,277,9,3.249,-3.39376,0.114842,0.33888,4.08184
+field:Epidemiology,Research field: Epidemiology,Epidemiology,2010,273,21,7.692,-2.48491,0.051587,0.22713,5.5026
+field:Epidemiology,Research field: Epidemiology,Epidemiology,2011,286,19,6.643,-2.64281,0.056377,0.23744,5.3613
+field:Epidemiology,Research field: Epidemiology,Epidemiology,2012,321,17,5.296,-2.88381,0.062113,0.24922,5.20134
+field:Epidemiology,Research field: Epidemiology,Epidemiology,2013,418,25,5.981,-2.75493,0.042545,0.20626,5.79074
+field:Epidemiology,Research field: Epidemiology,Epidemiology,2014,448,25,5.58,-2.8285,0.042364,0.20583,5.79679
+field:Epidemiology,Research field: Epidemiology,Epidemiology,2015,485,40,8.247,-2.40919,0.027247,0.16507,6.35355
+field:Epidemiology,Research field: Epidemiology,Epidemiology,2016,450,35,7.778,-2.47293,0.030981,0.17601,6.20632
+field:Epidemiology,Research field: Epidemiology,Epidemiology,2017,493,39,7.911,-2.45454,0.027844,0.16686,6.32956
+field:Epidemiology,Research field: Epidemiology,Epidemiology,2018,548,40,7.299,-2.5416,0.026969,0.16422,6.36482
+field:Epidemiology,Research field: Epidemiology,Epidemiology,2019,544,56,10.294,-2.16496,0.019906,0.14109,6.66438
+field:Epidemiology,Research field: Epidemiology,Epidemiology,2020,654,55,8.41,-2.38793,0.019851,0.14089,6.66683
+field:Epidemiology,Research field: Epidemiology,Epidemiology,2021,714,106,14.846,-1.74674,0.011079,0.10526,7.08096
+field:Epidemiology,Research field: Epidemiology,Epidemiology,2022,751,95,12.65,-1.93228,0.012051,0.10978,7.03256
+field:Epidemiology,Research field: Epidemiology,Epidemiology,2023,675,77,11.407,-2.04979,0.014659,0.12108,6.90587
+field:Epidemiology,Research field: Epidemiology,Epidemiology,2024,791,87,10.999,-2.09087,0.012915,0.11364,6.99008
+field:Epidemiology,Research field: Epidemiology,Epidemiology,2025,781,61,7.81,-2.46838,0.017782,0.13335,6.76007
+field:Economics,Research field: Economics,Economics,1996,13,0,0.0,-3.21888,2.08,1.44222,0.47882
+field:Economics,Research field: Economics,Economics,1997,14,0,0.0,-3.29584,2.074074,1.44016,0.48018
+field:Economics,Research field: Economics,Economics,1998,15,0,0.0,-3.3673,2.068966,1.43839,0.48137
+field:Economics,Research field: Economics,Economics,1999,20,0,0.0,-3.66356,2.051282,1.43223,0.4855
+field:Economics,Research field: Economics,Economics,2000,30,0,0.0,-4.07754,2.033898,1.42615,0.48963
+field:Economics,Research field: Economics,Economics,2001,35,3,8.571,-2.36712,0.364583,0.60381,2.68067
+field:Economics,Research field: Economics,Economics,2002,112,4,3.571,-3.29584,0.259259,0.50918,3.73529
+field:Economics,Research field: Economics,Economics,2003,63,4,6.349,-2.69124,0.266949,0.51667,3.631
+field:Economics,Research field: Economics,Economics,2004,108,9,8.333,-2.3979,0.121212,0.34816,7.71192
+field:Economics,Research field: Economics,Economics,2005,109,4,3.67,-3.26767,0.259524,0.50943,3.73161
+field:Economics,Research field: Economics,Economics,2006,167,11,6.587,-2.65196,0.097319,0.31196,9.45389
+field:Economics,Research field: Economics,Economics,2007,174,14,8.046,-2.43612,0.077679,0.27871,11.60957
+field:Economics,Research field: Economics,Economics,2008,194,10,5.155,-2.91235,0.105435,0.32471,8.78025
+field:Economics,Research field: Economics,Economics,2009,277,18,6.498,-2.66646,0.059417,0.24376,14.73323
+field:Economics,Research field: Economics,Economics,2010,273,15,5.495,-2.84491,0.070543,0.2656,12.65825
+field:Economics,Research field: Economics,Economics,2011,286,25,8.741,-2.34564,0.043831,0.20936,19.12461
+field:Economics,Research field: Economics,Economics,2012,321,22,6.854,-2.6094,0.048799,0.22091,17.46534
+field:Economics,Research field: Economics,Economics,2013,418,32,7.656,-2.4901,0.033841,0.18396,23.64184
+field:Economics,Research field: Economics,Economics,2014,448,43,9.598,-2.24269,0.025725,0.16039,29.25501
+field:Economics,Research field: Economics,Economics,2015,485,31,6.392,-2.68411,0.034461,0.18564,23.30028
+field:Economics,Research field: Economics,Economics,2016,450,42,9.333,-2.2736,0.026261,0.16205,28.80373
+field:Economics,Research field: Economics,Economics,2017,493,54,10.953,-2.09552,0.020796,0.14421,34.18377
+field:Economics,Research field: Economics,Economics,2018,548,51,9.307,-2.27676,0.02162,0.14704,33.24784
+field:Economics,Research field: Economics,Economics,2019,544,38,6.985,-2.58895,0.028292,0.1682,27.2114
+field:Economics,Research field: Economics,Economics,2020,654,54,8.257,-2.40795,0.020185,0.14207,34.91326
+field:Economics,Research field: Economics,Economics,2021,714,53,7.423,-2.52346,0.020381,0.14276,34.67646
+field:Economics,Research field: Economics,Economics,2022,751,74,9.854,-2.21361,0.014991,0.12244,42.64784
+field:Economics,Research field: Economics,Economics,2023,675,44,6.519,-2.66312,0.024312,0.15592,30.51638
+field:Economics,Research field: Economics,Economics,2024,791,67,8.47,-2.3801,0.016307,0.1277,40.3815
+field:Economics,Research field: Economics,Economics,2025,781,72,9.219,-2.28719,0.015299,0.12369,42.09365
+field:Sociology,Research field: Sociology,Sociology,1996,13,1,7.692,-2.48491,1.083333,1.04083,0.91161
+field:Sociology,Research field: Sociology,Sociology,1997,14,1,7.143,-2.56495,1.076923,1.03775,0.91697
+field:Sociology,Research field: Sociology,Sociology,1998,15,0,0.0,-3.3673,2.068966,1.43839,0.48017
+field:Sociology,Research field: Sociology,Sociology,1999,20,1,5.0,-2.94444,1.052632,1.02598,0.93786
+field:Sociology,Research field: Sociology,Sociology,2000,30,0,0.0,-4.07754,2.033898,1.42615,0.48839
+field:Sociology,Research field: Sociology,Sociology,2001,35,0,0.0,-4.23411,2.028986,1.42442,0.48957
+field:Sociology,Research field: Sociology,Sociology,2002,112,3,2.679,-3.59274,0.342508,0.58524,2.80794
+field:Sociology,Research field: Sociology,Sociology,2003,63,1,1.587,-4.12713,1.016129,1.00803,0.97111
+field:Sociology,Research field: Sociology,Sociology,2004,108,1,0.926,-4.67283,1.009346,1.00466,0.97754
+field:Sociology,Research field: Sociology,Sociology,2005,109,8,7.339,-2.53568,0.134901,0.36729,6.7328
+field:Sociology,Research field: Sociology,Sociology,2006,167,6,3.593,-3.28964,0.172878,0.41579,5.36183
+field:Sociology,Research field: Sociology,Sociology,2007,174,5,2.874,-3.52046,0.205917,0.45378,4.55492
+field:Sociology,Research field: Sociology,Sociology,2008,194,9,4.639,-3.02313,0.116517,0.34135,7.68391
+field:Sociology,Research field: Sociology,Sociology,2009,277,9,3.249,-3.39376,0.114842,0.33888,7.78404
+field:Sociology,Research field: Sociology,Sociology,2010,273,17,6.227,-2.71196,0.06273,0.25046,13.09667
+field:Sociology,Research field: Sociology,Sociology,2011,286,17,5.944,-2.7615,0.062541,0.25008,13.12913
+field:Sociology,Research field: Sociology,Sociology,2012,321,16,4.984,-2.94772,0.065779,0.25647,12.59379
+field:Sociology,Research field: Sociology,Sociology,2013,418,27,6.459,-2.67287,0.039595,0.19898,18.78989
+field:Sociology,Research field: Sociology,Sociology,2014,448,28,6.25,-2.70805,0.038095,0.19518,19.33459
+field:Sociology,Research field: Sociology,Sociology,2015,485,27,5.567,-2.83103,0.03922,0.19804,18.92292
+field:Sociology,Research field: Sociology,Sociology,2016,450,30,6.667,-2.63906,0.035714,0.18898,20.2676
+field:Sociology,Research field: Sociology,Sociology,2017,493,33,6.694,-2.63472,0.032477,0.18021,21.69081
+field:Sociology,Research field: Sociology,Sociology,2018,548,43,7.847,-2.46336,0.025236,0.15886,25.73238
+field:Sociology,Research field: Sociology,Sociology,2019,544,28,5.147,-2.9139,0.037652,0.19404,19.50161
+field:Sociology,Research field: Sociology,Sociology,2020,654,41,6.269,-2.70479,0.026022,0.16131,25.22253
+field:Sociology,Research field: Sociology,Sociology,2021,714,49,6.863,-2.60797,0.021912,0.14803,28.13932
+field:Sociology,Research field: Sociology,Sociology,2022,751,50,6.658,-2.64048,0.021427,0.14638,28.52899
+field:Sociology,Research field: Sociology,Sociology,2023,675,47,6.963,-2.59239,0.022869,0.15122,27.4014
+field:Sociology,Research field: Sociology,Sociology,2024,791,53,6.7,-2.63365,0.020223,0.14221,29.54343
+field:Sociology,Research field: Sociology,Sociology,2025,781,70,8.963,-2.31818,0.015692,0.12527,34.10907

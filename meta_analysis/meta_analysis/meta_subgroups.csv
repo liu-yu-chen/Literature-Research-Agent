@@ -1,0 +1,52 @@
+﻿outcome,label,short,subgroup,k,n,events,pooled_pct,ci_low_pct,ci_high_pct,I2_pct
+covid,COVID-19 prevalence,COVID-19,1996-2009,14,1331,0,0.83,0.395,1.734,0.0
+covid,COVID-19 prevalence,COVID-19,2010-2019,10,4266,0,0.121,0.05,0.289,0.0
+covid,COVID-19 prevalence,COVID-19,2020-2025,6,4366,477,9.76,6.087,15.288,96.25
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,1996-2009,14,1331,35,3.087,2.244,4.234,0.0
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,2010-2019,10,4266,167,3.874,3.03,4.941,60.8
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,2020-2025,6,4366,141,3.251,2.763,3.823,0.0
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,1996-2009,14,1331,19,1.816,1.192,2.757,0.0
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,2010-2019,10,4266,84,2.084,1.685,2.574,0.0
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,2020-2025,6,4366,100,2.326,1.868,2.894,20.32
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,1996-2009,14,1331,7,1.175,0.668,2.06,0.0
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,2010-2019,10,4266,101,2.374,1.794,3.136,46.4
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,2020-2025,6,4366,93,2.046,1.343,3.105,75.1
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,1996-2009,14,1331,51,5.326,3.111,8.973,70.86
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,2010-2019,10,4266,71,1.742,1.382,2.193,0.0
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,2020-2025,6,4366,53,1.271,0.958,1.685,9.11
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,1996-2009,14,1331,20,2.052,1.378,3.043,0.0
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,2010-2019,10,4266,66,1.571,1.057,2.331,60.7
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,2020-2025,6,4366,44,1.025,0.665,1.576,49.14
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,1996-2009,14,1331,852,58.713,52.158,64.972,76.2
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,2010-2019,10,4266,3123,73.162,71.81,74.473,0.0
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,2020-2025,6,4366,3344,76.528,74.462,78.474,60.52
+method:Simulation,Methodology: Simulation,Simulation,1996-2009,14,1331,229,17.35,15.398,19.492,0.0
+method:Simulation,Methodology: Simulation,Simulation,2010-2019,10,4266,759,17.843,16.721,19.023,0.0
+method:Simulation,Methodology: Simulation,Simulation,2020-2025,6,4366,725,16.64,15.563,17.776,0.0
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,1996-2009,14,1331,159,12.764,10.514,15.412,31.34
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,2010-2019,10,4266,590,13.874,12.867,14.947,0.0
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,2020-2025,6,4366,588,13.482,11.972,15.149,58.95
+method:Network analysis,Methodology: Network analysis,Network analysis,1996-2009,14,1331,152,11.983,10.312,13.882,0.0
+method:Network analysis,Methodology: Network analysis,Network analysis,2010-2019,10,4266,376,8.935,7.97,10.004,27.44
+method:Network analysis,Methodology: Network analysis,Network analysis,2020-2025,6,4366,390,8.869,7.493,10.47,67.34
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,1996-2009,14,1331,161,16.116,11.737,21.728,76.53
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,2010-2019,10,4266,375,8.887,8.004,9.857,13.26
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,2020-2025,6,4366,292,6.698,5.565,8.041,63.19
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,1996-2009,14,1331,73,5.797,4.643,7.217,0.0
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,2010-2019,10,4266,293,6.95,6.144,7.853,17.92
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,2020-2025,6,4366,394,9.069,8.224,9.992,6.33
+field:Computer Science,Research field: Computer Science,Computer Science,1996-2009,14,1331,593,43.032,37.87,48.349,65.3
+field:Computer Science,Research field: Computer Science,Computer Science,2010-2019,10,4266,1281,30.567,27.367,33.966,81.96
+field:Computer Science,Research field: Computer Science,Computer Science,2020-2025,6,4366,929,21.297,20.107,22.538,0.0
+field:Ecology,Research field: Ecology,Ecology,1996-2009,14,1331,204,19.43,14.748,25.161,76.12
+field:Ecology,Research field: Ecology,Ecology,2010-2019,10,4266,465,10.998,10.046,12.029,9.08
+field:Ecology,Research field: Ecology,Ecology,2020-2025,6,4366,392,8.998,7.81,10.346,54.56
+field:Epidemiology,Research field: Epidemiology,Epidemiology,1996-2009,14,1331,41,3.442,2.308,5.103,24.28
+field:Epidemiology,Research field: Epidemiology,Epidemiology,2010-2019,10,4266,317,7.428,6.524,8.445,30.3
+field:Epidemiology,Research field: Epidemiology,Epidemiology,2020-2025,6,4366,481,10.884,8.974,13.142,80.06
+field:Economics,Research field: Economics,Economics,1996-2009,14,1331,77,6.249,5.042,7.721,0.0
+field:Economics,Research field: Economics,Economics,2010-2019,10,4266,353,8.273,7.273,9.396,37.01
+field:Economics,Research field: Economics,Economics,2020-2025,6,4366,364,8.359,7.45,9.368,25.71
+field:Sociology,Research field: Sociology,Sociology,1996-2009,14,1331,45,3.886,2.925,5.144,0.0
+field:Sociology,Research field: Sociology,Sociology,2010-2019,10,4266,266,6.288,5.595,7.061,0.0
+field:Sociology,Research field: Sociology,Sociology,2020-2025,6,4366,310,7.142,6.395,7.969,4.74

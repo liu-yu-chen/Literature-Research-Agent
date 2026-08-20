@@ -1,0 +1,18 @@
+﻿outcome,label,short,k,total_n,events,pooled_pct,ci_low_pct,ci_high_pct,pi_low_pct,pi_high_pct,range_low_pct,range_high_pct,Q,df,I2_pct,tau2,reg_slope_per_year,reg_slope_se,reg_z,reg_p,reg_r2,egger_intercept,egger_p
+covid,COVID-19 prevalence,COVID-19,30,9963,477,1.726,1.061,2.797,0.259,10.612,0.0,20.588,304.908,29,90.49,0.80687,0.08393,0.03043,2.758,0.00582,0.0,-3.06,2.33e-13
+topic:Social Network Analysis,Main topic: Social Network Analysis,Social Network Analysis,30,9963,343,3.551,3.12,4.04,2.448,5.127,0.0,6.392,38.503,29,24.68,0.0304,-0.00503,0.01128,-0.445,0.656,0.033,-0.9218,1.02e-20
+topic:Urban Planning,Main topic: Urban Planning,Urban Planning,30,9963,203,2.183,1.906,2.498,1.894,2.514,0.0,5.0,21.321,29,0.0,0.0,0.01333,0.01156,1.153,0.249,0.0,-0.6405,4.77e-23
+topic:Transportation Planning and Optimization,Main topic: Transportation Planning and Optimization,Transportation Planning and Optimization,30,9963,201,2.074,1.683,2.554,1.022,4.162,0.0,4.26,49.649,29,41.59,0.11111,0.02113,0.01751,1.207,0.227,0.041,-1.3698,3.05e-20
+topic:Population Dynamics,Main topic: Population Dynamics,Population Dynamics,30,9963,175,2.46,1.792,3.369,0.508,11.086,0.632,26.667,122.707,29,76.37,0.58133,-0.08974,0.0111,-8.086,6.66e-16,0.912,1.8846,2.05e-09
+topic:Epidemiology,Main topic: Epidemiology,Epidemiology,30,9963,130,1.485,1.182,1.865,0.696,3.14,0.0,4.762,44.607,29,34.99,0.12582,-0.04807,0.01503,-3.199,0.00138,0.759,-0.6961,1.33e-15
+method:Agent-based modeling,Methodology: Agent-based modeling,Agent-based modeling,30,9963,7319,70.464,68.085,72.737,58.163,80.369,13.333,80.026,148.842,29,80.52,0.06625,0.03982,0.00555,7.169,7.57e-13,0.662,-4.4527,5.9e-20
+method:Simulation,Methodology: Simulation,Simulation,30,9963,1713,17.257,16.526,18.013,16.493,18.048,12.698,25.714,20.184,29,0.0,0.0,-0.00777,0.00431,-1.804,0.0712,0.0,0.3843,1.37e-23
+method:Regression analysis,Methodology: Regression analysis,Regression analysis,30,9963,1337,13.517,12.719,14.357,11.384,15.978,0.0,28.571,37.604,29,22.88,0.00789,-0.00052,0.00537,-0.097,0.923,0.349,-0.3488,1.96e-20
+method:Network analysis,Methodology: Network analysis,Network analysis,30,9963,918,9.536,8.732,10.405,6.928,12.988,0.0,17.46,49.772,29,41.73,0.0264,-0.01973,0.00653,-3.023,0.00251,0.492,-0.0101,4.72e-19
+method:Individual-based modeling,Methodology: Individual-based modeling,Individual-based modeling,30,9963,828,9.962,8.621,11.484,4.871,19.294,3.841,53.333,124.908,29,76.78,0.13489,-0.05107,0.00727,-7.028,2.09e-12,0.742,3.938,2.26e-18
+method:Spatial analysis,Methodology: Spatial analysis,Spatial analysis,30,9963,760,7.517,6.854,8.238,5.604,10.014,0.0,15.385,42.771,29,32.2,0.02095,0.02296,0.00678,3.388,0.000704,0.842,-1.3607,2.45e-22
+field:Computer Science,Research field: Computer Science,Computer Science,30,9963,2803,32.019,28.41,35.857,16.066,53.682,13.333,60.714,370.607,29,92.18,0.18559,-0.05635,0.00604,-9.332,0,0.836,3.2336,1.3e-07
+field:Ecology,Research field: Ecology,Ecology,30,9963,1061,12.554,11.065,14.211,6.714,22.261,7.042,53.846,125.283,29,76.85,0.10829,-0.04669,0.00588,-7.944,2e-15,0.859,4.2186,7.85e-20
+field:Epidemiology,Research field: Epidemiology,Epidemiology,30,9963,839,7.279,6.174,8.564,3.536,14.395,0.0,14.846,120.874,29,76.01,0.13015,0.06211,0.01068,5.815,6.05e-09,0.662,-2.5474,9.57e-19
+field:Economics,Research field: Economics,Economics,30,9963,794,8.041,7.44,8.686,6.632,9.719,0.0,10.953,34.812,29,16.7,0.00846,0.01584,0.00661,2.398,0.0165,0.831,-1.3053,5.25e-24
+field:Sociology,Research field: Sociology,Sociology,30,9963,621,6.287,5.732,6.892,4.917,8.006,0.0,8.963,36.424,29,20.38,0.01363,0.02921,0.00742,3.938,8.21e-05,1.0,-1.44,5.35e-25
